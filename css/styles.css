@@ -13,11 +13,11 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
-@import url(/css/screens/find.css);
-@import url(/css/components/icon-raw.css);
-@import url(/css/screens//more.css);
-@import url(/css/components/alt-screen-header.css);
-@import url(/css/components/settings.css);
+@import "screens/find.css";
+@import "components/icon-raw.css";
+@import "screens//more.css";
+@import "components/alt-screen-header.css";
+@import "components/settings.css";
 
 body {
   font-family: "Open Sans", sans-serif;
