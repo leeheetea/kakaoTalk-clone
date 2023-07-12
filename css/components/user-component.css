@@ -2,6 +2,10 @@
   justify-content: space-between;
 }
 
+.user-component__column {
+  margin-top: 20px;
+}
+
 .user-component,
 .user-component__column:first-child {
   display: flex;
@@ -32,7 +36,7 @@
 
 .user-component__subtitle {
   margin-top: 8px;
-  font-size: 17px;
+  font-size: 15px;
   color: rgba(0, 0, 0, 0.5);
 }
 
