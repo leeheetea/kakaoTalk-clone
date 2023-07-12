@@ -6,6 +6,8 @@
 /* screens */
 @import "screens/status-bar.css";
 @import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/more.css";
 
 /* components */
 @import "components/login-form.css";
@@ -13,9 +15,7 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
-@import "screens/find.css";
 @import "components/icon-raw.css";
-@import "screens/more.css";
 @import "components/alt-screen-header.css";
 @import "components/settings.css";
 @import "components/no-mobile.css";
