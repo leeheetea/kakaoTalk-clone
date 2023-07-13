@@ -12,18 +12,21 @@
   color: rgba(0, 0, 0, 0.3);
 }
 
+.friends-screen__channel-header > span {
+  font-size: 14px;
+}
+
 .friends-screen {
   padding: 0px var(--horizontal-space);
 }
 
 .friends-screen__channel {
-  margin-top: 25px;
+  margin-top: 20px;
   border-top: var(--main-border);
   padding-top: 15px;
 }
 
 .friends-screen__channel-header {
-  margin-bottom: 30px;
   display: flex;
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.5);
